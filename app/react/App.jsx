@@ -12,7 +12,10 @@ var App = React.creatClass({
                     <title>Note App</title>
                     <link href="css/app.css" rel="stylesheet"/>
                 </head>
-            </html>    
+            </html> 
+            <body>
+                <NoteApp/>
+            </body>   
         )
     }
 });
