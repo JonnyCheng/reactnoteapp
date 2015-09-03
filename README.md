@@ -1,3 +1,3 @@
 # reactNoteApp
-a isomorphic note app build by Reactjs and Flux for exercise.
+an isomorphic note app build by Reactjs and Flux for exercise.
 
